@@ -2,13 +2,13 @@
 title: "index unstranded control report"
 author: "Jiun Tseng"
 date: "7/8/2021"
-output: html_document
+output: 
 prettydoc::html_pretty:
     theme: leonids
     highlight: github
 ---
-
 *[Macmillan data](Macmillan_unstranded_control_report.html)
 
 *[Encode data](Encode_unstranded_control_report.html)
+
 
